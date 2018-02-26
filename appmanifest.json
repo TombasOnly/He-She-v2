@@ -1,0 +1,22 @@
+{
+	"name": "He+She",
+	"short_name": "He+She",
+	"description": "Minigame about love.",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "portrait",
+	"background_color": "#231f20",
+	"icons": [
+		{
+			"src": "icons/icon-16.png",
+			"sizes": "16x16",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-32.png",
+			"sizes": "32x32",
+			"type": "image/png"
+		}
+	],
+	"theme_color": "#231f20"
+}
